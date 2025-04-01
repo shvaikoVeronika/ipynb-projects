@@ -1,1 +1,1 @@
-# ipynb-projects
+# jupyter-notebook-projects
